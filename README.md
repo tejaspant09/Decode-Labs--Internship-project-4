@@ -42,6 +42,5 @@ While making this project, I learned how to:
 * Add a timer for each question
 * Save the user's highest score
 ## Author
-Tejas Fr
-
+Tejas Pant
 BCA (AI & DS) Student
